@@ -23,10 +23,11 @@ seo:
 The link to this webpage is [https://sysec-uic.github.io/cs487-f23](https://sysec-uic.github.io/cs487-f23).
 -->
 
-Primary course information can be found in the [Syllabus](https://sysec-uic.github.io/cs487-f23/syllabus/) or download the [PDF file](https://xiaoguang.wang/teaching/CS594-Syllabus-s24.pdf).
+Primary course information can be found here [Syllabus](https://xiaoguang.wang/teaching/CS594-Syllabus-s24.pdf).
 <!--
 Code used in the lecture can be found [here](https://github.com/sysec-uic/cs594-s23/tree/main/code).
 -->
 
 ### Announcement:
-- 01/09: Welcome back!
+- 01/08: Welcome back!
+- 01/09: HW 1 due Jan/12!

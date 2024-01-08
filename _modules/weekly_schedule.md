@@ -2,32 +2,32 @@
 title: Linux Kernel Programming
 ---
 
-Week 1
+Week 01
 : [Intro to Linux kernel programming and toolchain for kernel development](#)
-: **HW 1 due**{: .label .label-red }[01/12]
+: **HW 1 due**{: .label .label-red }[01/12](#)
 
-Week 2
+Week 02
 : [Isolation, system calls and Linux kernel data structures](#)
 
-Week 3
+Week 03
 : [Isolation, system calls, and Linux kernel data structures](#)
 
-Week 4
+Week 04
 : [Process management and process scheduling](#)
 
-Week 5
+Week 05
 : [Interrupt handling: top half, bottom half](#)
 
-Week 6
+Week 06
 : [Kernel synchronization](#)
 
-Week 7
+Week 07
 : [Timer and time management](#)
 
-Week 8
+Week 08
 : [Memory management, address space](#)
 
-Week 9
+Week 09
 : [Spring break](#)
 
 Week 10
