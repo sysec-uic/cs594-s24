@@ -17,7 +17,7 @@ seo:
 
 > **Time & Location:**	Tuesday, Thursday, 9:30AM – 10:45AM, TBH 180E
 
-> **Office hours:** Tuesday 3:30 PM - 4:30 PM (SEO 1331), or by appointment (in-person or via Google Meet, please use [Calendly](https://calendly.com/xgwang9/15-min-office-hour))
+> **Office hours:** Thursday 3:30 PM - 4:30 PM (SEO 1331), or by appointment (in-person or via Google Meet, please use [Calendly](https://calendly.com/xgwang9/15-min-office-hour))
 
 <!--
 The link to this webpage is [https://sysec-uic.github.io/cs487-f23](https://sysec-uic.github.io/cs487-f23).
