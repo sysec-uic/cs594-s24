@@ -8,7 +8,7 @@ seo:
   name: UIC CS 594 Linux Kernel Programming
 ---
 
-# CS594: Linux Kernel Programming
+# UIC CS594: (Special Topics) Linux Kernel Programming
 
 ### Course Information
 **Instructor:**
@@ -34,7 +34,7 @@ Code used in the lecture can be found [here](https://github.com/sysec-uic/cs594-
 - 01/09: HW 1 due Jan/12!
 -->
 
-**Acknowledgment**: This course is based on [Dr. Changwoo Min](https://multics69.github.io/)'s (Advanced) Linux Kernel Programming and [Dr. Pierre Olivier](https://sites.google.com/view/pierreolivier)'s [Virtualization 101](https://olivierpierre.github.io/virt-101/) and is used with permissions.
+**Acknowledgment**: This course is based on [Dr. Changwoo Min](https://multics69.github.io/)'s (Advanced) Linux Kernel Programming and [Dr. Pierre Olivier](https://sites.google.com/view/pierreolivier)'s [Virtualization 101](https://olivierpierre.github.io/virt-101/). The material is used with permission.
 
 ### Weekly Schedule
 
