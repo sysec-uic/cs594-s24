@@ -28,6 +28,16 @@ Primary course information can be found here [Syllabus](https://xiaoguang.wang/t
 Code used in the lecture can be found [here](https://github.com/sysec-uic/cs594-s23/tree/main/code).
 -->
 
+<!--
 ### Announcement:
 - 01/08: Welcome back!
 - 01/09: HW 1 due Jan/12!
+-->
+
+**Acknowledgment**: This course is based on [Dr. Changwoo Min](https://multics69.github.io/)'s (Advanced) Linux Kernel Programming and [Dr. Pierre Olivier](https://sites.google.com/view/pierreolivier)'s [Virtualization 101](https://olivierpierre.github.io/virt-101/) and is used with permissions.
+
+### Weekly Schedule
+
+{% for module in site.modules %}
+{{ module }}
+{% endfor %}
