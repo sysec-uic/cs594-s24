@@ -31,7 +31,7 @@ Week 07
   : **HW 7 due: 02/23**{: .label .label-red }[CPU Profiler II](#)
 
 Week 08
-: [Virtualization](#)
+: [Device Drivers, Virtualization](#)
   : **HW 8 due: 03/01**{: .label .label-red }[CPU Profiler III](#)
 
 Week 09
