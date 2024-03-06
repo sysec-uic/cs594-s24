@@ -11,7 +11,7 @@ Week 02
   : **HW 2 due: 01/19**{: .label .label-red }[Build the kernel](#)
 
 Week 03
-: [Isolation, system calls, and Linux kernel data structures](#)
+: [Kernel debugging, and tracing techniques](#)
   : **HW 3 due: 01/29**{: .label .label-red }[System calls](#)
 
 Week 04
