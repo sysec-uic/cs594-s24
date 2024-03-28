@@ -45,10 +45,11 @@ Week 11
 : [Spring break](#)
 
 Week 12
-: [Paper reading and discussion](#)
+: [Filesystem and Block IO & Paper reading and discussion](#)
 
 Week 13
 : [Paper reading and discussion](#)
+  : **File project check-in due: 04/05**{: .label .label-red }
 
 Week 14
 : [Paper reading and discussion](#)
