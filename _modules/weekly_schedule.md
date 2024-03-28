@@ -49,7 +49,7 @@ Week 12
 
 Week 13
 : [Paper reading and discussion](#)
-  : **File project check-in due: 04/05**{: .label .label-red }
+  : **Final project check-in due: 04/05**{: .label .label-red }
 
 Week 14
 : [Paper reading and discussion](#)
